@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="76" viewBox="0 0 230 76">
+  <g id="Group_15" data-name="Group 15" transform="translate(-575 -334)">
+    <text id="Expiration_Date_" data-name="Expiration Date *" transform="translate(575 349)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Expiration Date *</tspan></text>
+    <g id="Rectangle_1102" data-name="Rectangle 1102" transform="translate(575 360)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="230" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="229" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="Month" transform="translate(600 392)" fill="#9b9696" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.03em"><tspan x="0" y="0">Month</tspan></text>
+    <g id="expand_more-24px" transform="translate(766 373)">
+      <path id="Path_207" data-name="Path 207" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_208" data-name="Path 208" d="M16.59,8.59,12,13.17,7.41,8.59,6,10l6,6,6-6Z"/>
+    </g>
+  </g>
+</svg>

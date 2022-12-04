@@ -1,0 +1,402 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3909" height="1264" viewBox="0 0 3909 1264">
+  <defs>
+    <filter id="Rectangle_7" x="469.5" y="141" width="812" height="1087" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_112" x="1173" y="17" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1093" x="194" y="141" width="287" height="1087" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1114" x="1295" y="141" width="432" height="562" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1132" x="627" y="516" width="668" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1134" x="627" y="639" width="668" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1135" x="627" y="757" width="668" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1136" x="627" y="880" width="668" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_69" data-name="Group 69" transform="translate(0 3)">
+    <rect id="Base" width="1920" height="82" transform="translate(0 -3)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, -3)" filter="url(#Rectangle_7)">
+      <path id="Rectangle_7-2" data-name="Rectangle 7" d="M0,0H785a15,15,0,0,1,15,15V1060a15,15,0,0,1-15,15H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(475.5 145)" fill="#fff"/>
+    </g>
+    <g id="Group_32" data-name="Group 32" transform="translate(76)">
+      <g transform="matrix(1, 0, 0, 1, -76, -3)" filter="url(#Ellipse_112)">
+        <circle id="Ellipse_112-2" data-name="Ellipse 112" cx="20" cy="20" r="20" transform="translate(1182 23)" fill="#009edb"/>
+      </g>
+      <g id="Group_26" data-name="Group 26" transform="translate(-75)">
+        <text id="SELECT" transform="translate(661 46)" fill="#434343" font-size="18" font-family="Cabin" font-weight="500"><tspan x="0" y="0">SELECT</tspan></text>
+        <text id="BOOK" transform="translate(946 46)" fill="#434343" font-size="18" font-family="Cabin" font-weight="500"><tspan x="0" y="0">BOOK</tspan></text>
+        <text id="PAYMENT" transform="translate(1232 46)" fill="#009edb" font-size="18" font-family="Cabin" font-weight="500"><tspan x="0" y="0">PAYMENT</tspan></text>
+        <text id="_3" data-name="3" transform="translate(1196 47)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+        <line id="Line_3" data-name="Line 3" x2="124" transform="translate(746.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_4" data-name="Line 4" x2="124" transform="translate(1030.5 40.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="check_circle_outline-24px" transform="translate(609 20)">
+          <path id="Path_216" data-name="Path 216" d="M0,0H40V40H0ZM0,0H40V40H0Z" fill="none"/>
+          <path id="Path_217" data-name="Path 217" d="M28.262,12.044,16.4,23.906,9.938,17.462,7.4,20l9,9L30.8,14.6ZM20,2A18,18,0,1,0,38,20,18.007,18.007,0,0,0,20,2Zm0,32.4A14.4,14.4,0,1,1,34.4,20,14.4,14.4,0,0,1,20,34.4Z" transform="translate(0 0)" fill="#434343"/>
+        </g>
+        <g id="check_circle_outline-24px-2" data-name="check_circle_outline-24px" transform="translate(895 20)">
+          <path id="Path_216-2" data-name="Path 216" d="M0,0H40V40H0ZM0,0H40V40H0Z" fill="none"/>
+          <path id="Path_217-2" data-name="Path 217" d="M28.262,12.044,16.4,23.906,9.938,17.462,7.4,20l9,9L30.8,14.6ZM20,2A18,18,0,1,0,38,20,18.007,18.007,0,0,0,20,2Zm0,32.4A14.4,14.4,0,1,1,34.4,20,14.4,14.4,0,0,1,20,34.4Z" transform="translate(0 0)" fill="#434343"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, -3)" filter="url(#Rectangle_1093)">
+      <path id="Rectangle_1093-2" data-name="Rectangle 1093" d="M15,0H275a0,0,0,0,1,0,0V1075a0,0,0,0,1,0,0H15a15,15,0,0,1-15-15V15A15,15,0,0,1,15,0Z" transform="translate(200 145)" fill="#fff"/>
+    </g>
+    <text id="Credit_Debit_Card" data-name="Credit/Debit Card" transform="translate(262 225)" fill="#009edb" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">Credit/Debit Card</tspan></text>
+    <rect id="Rectangle_1094" data-name="Rectangle 1094" width="250" height="60" rx="15" transform="translate(211 260)" fill="#fff"/>
+    <text id="KlikBCA" transform="translate(263 295)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">KlikBCA</tspan></text>
+    <rect id="Rectangle_1095" data-name="Rectangle 1095" width="250" height="60" rx="15" transform="translate(211 330)" fill="#fff"/>
+    <text id="LinkAja" transform="translate(262 365)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">LinkAja</tspan></text>
+    <rect id="Rectangle_1096" data-name="Rectangle 1096" width="250" height="60" rx="15" transform="translate(211 400)" fill="#fff"/>
+    <text id="e-Pay_BRI" data-name="e-Pay BRI" transform="translate(262 435)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">e-Pay BRI</tspan></text>
+    <rect id="Rectangle_1097" data-name="Rectangle 1097" width="250" height="60" rx="15" transform="translate(211 470)" fill="#fff"/>
+    <text id="CIMB_Clicks" data-name="CIMB Clicks" transform="translate(262 505)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">CIMB Clicks</tspan></text>
+    <rect id="Rectangle_1098" data-name="Rectangle 1098" width="250" height="60" rx="15" transform="translate(211 540)" fill="#fff"/>
+    <text id="GoPay" transform="translate(262 575)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">GoPay</tspan></text>
+    <rect id="Rectangle_1099" data-name="Rectangle 1099" width="250" height="60" rx="15" transform="translate(211 610)" fill="#fff"/>
+    <text id="ATM" transform="translate(262 645)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">ATM</tspan></text>
+    <rect id="Rectangle_1100" data-name="Rectangle 1100" width="250" height="60" rx="15" transform="translate(211 680)" fill="#fff"/>
+    <text id="BNI_Mobile" data-name="BNI Mobile" transform="translate(262 715)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">BNI Mobile</tspan></text>
+    <text id="CARD_DETAILS" data-name="CARD DETAILS" transform="translate(556 224)" fill="#105088" font-size="18" font-family="Cabin"><tspan x="0" y="0">CARD DETAILS</tspan></text>
+    <text id="Secure_Server" data-name="Secure Server" transform="translate(1078 224)" fill="#75777b" font-size="16" font-family="Cabin"><tspan x="0" y="0">Secure Server</tspan></text>
+    <g id="lock-24px" transform="translate(1060 210.091)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_198" data-name="Path 198" d="M0,0H16V16H0Z" fill="none"/>
+        <path id="Path_199" data-name="Path 199" d="M0,0H16V16H0Z" fill="none" opacity="0.87"/>
+      </g>
+      <path id="Path_200" data-name="Path 200" d="M12.193,5.5h-.585V4.217A3.083,3.083,0,0,0,8.682,1,3.083,3.083,0,0,0,5.756,4.217V5.5H5.17A1.236,1.236,0,0,0,4,6.791v6.434a1.236,1.236,0,0,0,1.17,1.287h7.023a1.236,1.236,0,0,0,1.17-1.287V6.791A1.236,1.236,0,0,0,12.193,5.5ZM6.926,4.217a1.847,1.847,0,0,1,1.756-1.93,1.847,1.847,0,0,1,1.756,1.93V5.5H6.926Zm5.267,9.008H5.17V6.791h7.023Zm-3.511-1.93a1.236,1.236,0,0,0,1.17-1.287,1.236,1.236,0,0,0-1.17-1.287,1.236,1.236,0,0,0-1.17,1.287A1.236,1.236,0,0,0,8.682,11.294Z" transform="translate(-0.682 -0.17)" fill="#75777b"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="631" transform="translate(556.5 248.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 5"/>
+    <g id="Group_24" data-name="Group 24" transform="translate(63 158.54)">
+      <g id="Group_2" data-name="Group 2" transform="translate(860 257)">
+        <g id="visa-light-large">
+          <rect id="card_bg" width="59" height="40" rx="4" fill="#dfe3e8"/>
+          <path id="visa-logo" d="M20.858,11.671a8.737,8.737,0,0,1-3.192-.6l.527-2.452a6.153,6.153,0,0,0,2.913.736h.078c.873-.013,1.753-.362,1.753-1.115.012-.48-.4-.862-1.52-1.41-1.1-.538-2.562-1.442-2.562-3.077,0-2.209,2.016-3.751,4.9-3.751A7.863,7.863,0,0,1,26.5.5L25.99,2.955a5.531,5.531,0,0,0-2.354-.53c-.18,0-.362.009-.54.027-.847.112-1.226.555-1.226.944,0,.475.607.793,1.376,1.2,1.22.639,2.738,1.434,2.73,3.3l.062-.1c-.012,2.354-2.02,3.874-5.112,3.874Zm8.123-.1H25.892l4.4-10.506A1.332,1.332,0,0,1,31.519.233h2.452l2.377,11.339H33.627l-.355-1.691H29.582l-.6,1.691ZM31.9,3.3,30.354,7.551h2.439ZM15.569,11.536H12.627L15.079.2h2.941L15.569,11.536ZM9.133,11.5h-3.2L3.592,2.439a1.233,1.233,0,0,0-.7-.993A12.157,12.157,0,0,0,0,.49L.074.159H5.063a1.371,1.371,0,0,1,1.36,1.153L7.649,7.87,10.7.159H13.89L9.134,11.5Z" transform="translate(11.23 13.767)" fill="#2a2a6c"/>
+        </g>
+      </g>
+      <g id="mastercard-light-large" transform="translate(927.995 257)">
+        <rect id="card_bg-2" data-name="card_bg" width="59" height="40.46" rx="4" fill="#dfe3e8"/>
+        <g id="mastercard" transform="translate(5.578 3.948)">
+          <g id="Group" transform="translate(0 0)" opacity="0">
+            <rect id="Rectangle" width="47.753" height="32.04" fill="#fff"/>
+          </g>
+          <rect id="Rectangle-2" data-name="Rectangle" width="12.595" height="21.036" transform="translate(17.579 5.502)" fill="#f26122"/>
+          <path id="Path" d="M16.245,13.319A13.37,13.37,0,0,1,21.179,2.85,12.927,12.927,0,0,0,3.474,4.282a13.491,13.491,0,0,0,0,18.073,12.927,12.927,0,0,0,17.706,1.432A13.37,13.37,0,0,1,16.245,13.319Z" transform="translate(2.691 2.701)" fill="#ea1d25"/>
+          <path id="Shape" d="M.617.508H.531V0H.654l.16.357L.963,0h.123V.505H1V.123L.864.456h-.1L.617.123V.506Zm-.371,0H.173V.087H0V0H.432V.087H.246V.505Z" transform="translate(43.534 23.735)" fill="#f69e1e"/>
+          <path id="Path-2" data-name="Path" d="M21.169,13.31A13.341,13.341,0,0,1,13.8,25.28,12.9,12.9,0,0,1,0,23.779,13.477,13.477,0,0,0,2.2,5.088,12.947,12.947,0,0,0,0,2.841a12.9,12.9,0,0,1,13.8-1.5,13.341,13.341,0,0,1,7.367,11.97Z" transform="translate(23.87 2.71)" fill="#f69e1e"/>
+        </g>
+      </g>
+      <g id="americanexpress-light-large" transform="translate(995.673 257)">
+        <rect id="card_bg-3" data-name="card_bg" width="59" height="40.46" rx="4" transform="translate(0.318)" fill="#dfe3e8"/>
+        <g id="amex" transform="translate(0 9.182)">
+          <path id="Path-3" data-name="Path" d="M1.576,1.092l.67,1.638H0L.683,1.092,1.129,0l.447,1.092Z" transform="translate(2.954 3.053)" fill="#296db6"/>
+          <path id="Shape-2" data-name="Shape" d="M38.42,10.177a4.938,4.938,0,0,1-2.879-.92v.918H29.572l-1.44-1.811v1.811H5.374L4.8,8.662H3.414L2.83,10.175H0V8.662H1.887l.6-1.465H5.746l.6,1.415H8.253l-3-7H3.041L0,8.659V4.715L1.987,0H6.032L7.2,2.606V0h4.964l.745,2.234L13.651.049h21.89V1.068A4.842,4.842,0,0,1,38.5.047l.139,0h6.626L46.51,2.656V.049h3.9L51.735,2.11V.049H56.19V10.175H52l-1.242-1.96v1.96h-6.08l-.608-1.513h-1.39l-.571,1.513H38.544ZM47.85,1.613V8.662h1.663V3.946l.447.769,2.594,3.9h1.985L54.6,1.564H52.864V6.13l-.471-.794L49.911,1.613Zm-5.546,0-3,7.049h1.812l.6-1.465h3.314l.6,1.415h1.912l-2.991-7ZM38.245,1.6a3.165,3.165,0,0,0-3.151,3.458v.1a3.1,3.1,0,0,0,3.081,3.455c.057,0,.114,0,.17,0h.1l.682-1.489h-.533l-.087,0a1.738,1.738,0,0,1-1.725-1.963v-.1a1.739,1.739,0,0,1,1.725-1.938l.087,0h1.848V1.613H38.469C38.395,1.607,38.319,1.6,38.245,1.6ZM32.4,1.613v7h1.7v-7ZM27.04,6.13h.769L29.9,8.612h2.159L29.721,6.031a2.161,2.161,0,0,0,1.911-2.209A2.2,2.2,0,0,0,29.15,1.613H25.316v7H27.04V6.132ZM15.622,2.961h0V8.612h1.638v-7H14.52L13.13,5.659l-.223.769-.223-.769L11.318,1.613H8.576v7H10.2V2.953l.347,1.068,1.589,4.591h1.513L15.3,4.021Zm2.993-1.348v6.95H24.2V7.073H20.265V5.832H24.1V4.343H20.265V3.1H24.2V1.613ZM44.55,5.783H42.343l.644-1.638.447-1.092L43.855,4.1l.247.6-.247-.6-.422-1.043.447,1.092.256.626h0l.394.958h0l-.733-1.585.756,1.637ZM29.112,4.65A.768.768,0,0,1,29,4.642H27.04V3.1H29a.779.779,0,0,1,.868.765v.025a.756.756,0,0,1-.757.757Zm.5-.24a.755.755,0,0,1-.5.19A.754.754,0,0,0,29.615,4.409Z" transform="translate(0 0)" fill="#296db6"/>
+          <path id="Shape-3" data-name="Shape" d="M25.439,10.128H21.183V7.57a6.114,6.114,0,0,1-1.807.273h-.749v2.284H12.36L11.317,8.612,10.25,10.126H0V0H10.275l1.042,1.489L12.385,0H48.545V1.564H44.909A2.159,2.159,0,0,0,42.5,3.773a1.947,1.947,0,0,0,2.183,2.059h1.6a.634.634,0,0,1,.651.269.632.632,0,0,1-.651.972H42.7v1.49h3.562c.067.006.135.009.2.009A2.205,2.205,0,0,0,48.52,7.148V9.505a4.154,4.154,0,0,1-2.188.622H26.879l-1.44-1.813v1.813Zm-14.122-3.8h0L13,8.563l2.135.049L12.31,5.088l2.78-3.525H13.03L11.317,3.773l-1.7-2.185H7.507l2.817,3.5L7.594,8.563H9.568L11.316,6.33Zm24.918.744v1.49h3.624c.057,0,.116.007.173.007A2.172,2.172,0,0,0,42.2,6.329a1.922,1.922,0,0,0-2.185-2.01H38.394a.633.633,0,1,1,0-1.241H41.41l.67-1.49H38.444a2.16,2.16,0,0,0-2.407,2.185A1.947,1.947,0,0,0,38.22,5.832h1.638a.633.633,0,1,1,0,1.241ZM24.284,6.08h.769l2.085,2.483H29.3L26.952,5.982a2.224,2.224,0,0,0-.52-4.418h-3.8v7h1.65V6.081ZM15.437,1.564v7H17.1V6.254h2.147A2.3,2.3,0,0,0,21.778,3.9,2.246,2.246,0,0,0,19.3,1.564Zm14.259,0V8.488h5.646V7H31.407V5.758h3.835V4.293H31.407V3.052h3.9l.037-1.489Zm-28.083,0V8.488H7.235V7H3.3V5.758H7.16V4.293H3.3V3.052H7.235V1.564ZM48.48,5.455a2.009,2.009,0,0,0-2.033-1.162H44.822a.633.633,0,1,1,0-1.241h3.053l.608-1.44V5.454Zm-29.333-.69h-2.01V3.052h2.01a.857.857,0,1,1,0,1.713ZM26.4,4.6a.759.759,0,0,1-.113-.008h-1.96V3.052h1.96a.782.782,0,0,1,.1-.006.77.77,0,0,1,.771.776v.021A.757.757,0,0,1,26.4,4.6Z" transform="translate(11.02 13.278)" fill="#296db6"/>
+        </g>
+      </g>
+      <g id="jcb-light-large" transform="translate(1064 257)">
+        <rect id="card_bg-4" data-name="card_bg" width="60" height="40.46" rx="4" fill="#dfe3e8"/>
+        <g id="jcb-logo" transform="translate(10.271 4.975)">
+          <rect id="Rectangle-3" data-name="Rectangle" width="12.252" height="16.841" transform="translate(0.037 8.255)" fill="#fff"/>
+          <rect id="Rectangle-4" data-name="Rectangle" width="12.276" height="14.801" transform="translate(13.794 8.216)" fill="#fff"/>
+          <rect id="Rectangle-5" data-name="Rectangle" width="12.252" height="16.194" transform="translate(27.538 7.881)" fill="#fff"/>
+          <path id="Path-4" data-name="Path" d="M0,2.5H3.221A1.244,1.244,0,0,0,4.229,1.254,1.331,1.331,0,0,0,3.221.01a1.53,1.53,0,0,0-.348,0H0Z" transform="translate(29.976 15.887)" fill="#40a648"/>
+          <path id="Path-5" data-name="Path" d="M5,0A5.014,5.014,0,0,0,.025,5.052v5.241H7.052a2.1,2.1,0,0,1,.5,0c1.58.076,2.761.909,2.761,2.349a2.357,2.357,0,0,1-2.276,2.311h0c1.617.114,2.848,1.023,2.848,2.45S9.515,19.93,7.712,19.93H0V30.311H7.314a5.014,5.014,0,0,0,4.975-5.052V0Z" transform="translate(27.513)" fill="#40a648"/>
+          <path id="Path-6" data-name="Path" d="M3.881,1.244A1.169,1.169,0,0,0,2.873,0H0V2.4H2.6a.9.9,0,0,0,.274,0A1.157,1.157,0,0,0,3.881,1.231Z" transform="translate(29.976 11.774)" fill="#40a648"/>
+          <path id="Path-7" data-name="Path" d="M4.975,0A5.014,5.014,0,0,0,0,5.052V17.517a9.721,9.721,0,0,0,4.291,1.137A2.365,2.365,0,0,0,6.2,18.017a2.444,2.444,0,0,0,.755-1.889v-5.86h4.241v5.86c0,2.273-1.393,4.13-6.12,4.13A20.841,20.841,0,0,1,0,19.627V30.311H7.3a5.014,5.014,0,0,0,4.975-5.052V0Z" transform="translate(0)" fill="#0d67b0"/>
+          <path id="Path-8" data-name="Path" d="M4.975,0A5.014,5.014,0,0,0,0,5.052v6.605c1.244-1.086,3.445-1.781,6.965-1.6a21.179,21.179,0,0,1,3.906.606v2.134a9.334,9.334,0,0,0-3.731-1.111c-2.674-.189-4.291,1.137-4.291,3.473s1.617,3.688,4.291,3.473a9.961,9.961,0,0,0,3.731-1.111v2.134a20.725,20.725,0,0,1-3.906.606c-3.52.177-5.709-.518-6.965-1.6V30.311H7.351a5.014,5.014,0,0,0,4.975-5.052V0Z" transform="translate(13.794)" fill="#be2034"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(67 159)">
+      <text id="_2018_2706_2311_1910" data-name="2018  2706  2311  1910" transform="translate(520 284)" font-size="18" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve">2018  2706  2311  1910</tspan></text>
+      <g id="Rectangle_1105" data-name="Rectangle 1105" transform="translate(490 252)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="330" height="50" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="329" height="49" rx="9.5" fill="none"/>
+      </g>
+      <text id="Card_Number_" data-name="Card Number *" transform="translate(490 241)" font-size="14" font-family="Cabin" font-weight="500"><tspan x="0" y="0">Card Number *</tspan></text>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(-19 -290)">
+      <text id="John_Doe" data-name="John Doe" transform="translate(606 628)" font-size="18" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">John Doe</tspan></text>
+      <g id="Rectangle_1106" data-name="Rectangle 1106" transform="translate(576 596)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="330" height="50" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="329" height="49" rx="9.5" fill="none"/>
+      </g>
+      <text id="Card_Holder_Name_" data-name="Card Holder Name *" transform="translate(576 585)" font-size="14" font-family="Cabin" font-weight="500"><tspan x="0" y="0">Card Holder Name *</tspan></text>
+    </g>
+    <line id="Line_6" data-name="Line 6" x2="174" transform="translate(262.5 241.5)" fill="none" stroke="#009edb" stroke-width="3"/>
+    <g id="Group_18" data-name="Group 18" transform="translate(-669 488)">
+      <rect id="Rectangle_1116" data-name="Rectangle 1116" width="374" height="50" rx="10" transform="translate(1482 631)" fill="#105088"/>
+      <text id="PAY_NOW" data-name="PAY NOW" transform="translate(1629 663)" fill="#f7f7f7" font-size="18" font-family="Cabin" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">PAY NOW</tspan></text>
+    </g>
+    <g id="Group_29" data-name="Group 29" transform="translate(67 129)">
+      <text id="Expiration_Date_" data-name="Expiration Date *" transform="translate(489 374)" font-size="14" font-family="Cabin" font-weight="500"><tspan x="0" y="0">Expiration Date *</tspan></text>
+      <g id="Rectangle_1102" data-name="Rectangle 1102" transform="translate(489 385)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="331" height="50" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="330" height="49" rx="9.5" fill="none"/>
+      </g>
+      <text id="MM_YY" data-name="MM/YY" transform="translate(519 417)" fill="#9b9696" font-size="18" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">MM/YY</tspan></text>
+    </g>
+    <g id="Rectangle_1104" data-name="Rectangle 1104" transform="translate(923 514)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="264" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="263" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="CVC_" data-name="CVC *" transform="translate(923 503)" font-size="14" font-family="Cabin" font-weight="500"><tspan x="0" y="0">CVC *</tspan></text>
+    <text id="_" data-name="* * *" transform="translate(953 546)" fill="#434343" font-size="18" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">* * *</tspan></text>
+    <g id="help-24px" transform="translate(1169 490)">
+      <path id="Path_212" data-name="Path 212" d="M0,0H16V16H0Z" fill="none"/>
+      <path id="Path_213" data-name="Path 213" d="M8,2a6,6,0,1,0,6,6A6,6,0,0,0,8,2Zm.6,10.2H7.4V11H8.6ZM9.842,7.55,9.3,8.1a2.043,2.043,0,0,0-.7,1.7H7.4V9.5a2.415,2.415,0,0,1,.7-1.7l.744-.756A1.173,1.173,0,0,0,9.2,6.2a1.2,1.2,0,0,0-2.4,0H5.6a2.4,2.4,0,1,1,4.8,0A1.909,1.909,0,0,1,9.842,7.55Z"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" x2="630" y2="0.5" transform="translate(557.5 640)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 5"/>
+    <path id="Path_207" data-name="Path 207" d="M0,0H24V24H0Z" transform="translate(1249 964)" fill="none"/>
+    <text id="No_Installment" data-name="No Installment" transform="translate(951 715)" fill="#9b9696" font-size="18" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">No Installment</tspan></text>
+    <g id="Rectangle_1105-2" data-name="Rectangle 1105" transform="translate(923 686)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="264" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="263" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="Installment_Plan" data-name="Installment Plan" transform="translate(923 674)" fill="#9b9696" font-size="14" font-family="Cabin"><tspan x="0" y="0">Installment Plan</tspan></text>
+    <path id="Path_208" data-name="Path 208" d="M16.59,8.59,12,13.17,7.41,8.59,6,10l6,6,6-6Z" transform="translate(1153 699)" fill="#9b9696"/>
+    <g id="help-24px-2" data-name="help-24px" transform="translate(1171 662)">
+      <path id="Path_212-2" data-name="Path 212" d="M0,0H16V16H0Z" fill="none"/>
+      <path id="Path_213-2" data-name="Path 213" d="M8,2a6,6,0,1,0,6,6A6,6,0,0,0,8,2Zm.6,10.2H7.4V11H8.6ZM9.842,7.55,9.3,8.1a2.043,2.043,0,0,0-.7,1.7H7.4V9.5a2.415,2.415,0,0,1,.7-1.7l.744-.756A1.173,1.173,0,0,0,9.2,6.2a1.2,1.2,0,0,0-2.4,0H5.6a2.4,2.4,0,1,1,4.8,0A1.909,1.909,0,0,1,9.842,7.55Z" fill="#9b9696"/>
+    </g>
+    <g id="Group_31" data-name="Group 31" transform="translate(67 -277)">
+      <text id="Redeem_Point" data-name="Redeem Point" transform="translate(490 959)" fill="#9b9696" font-size="14" font-family="Cabin"><tspan x="0" y="0">Redeem Point</tspan></text>
+      <text id="I_d_like_to_redeem_points_from_this_credit_card" data-name="I’d like to redeem points from this credit card" transform="translate(514 993)" fill="#9b9696" font-size="14" font-family="Cabin"><tspan x="0" y="0">I’d like to redeem points from this credit card</tspan></text>
+      <g id="help-24px-3" data-name="help-24px" transform="translate(775 946)">
+        <path id="Path_212-3" data-name="Path 212" d="M0,0H16V16H0Z" fill="none"/>
+        <path id="Path_213-3" data-name="Path 213" d="M8,2a6,6,0,1,0,6,6A6,6,0,0,0,8,2Zm.6,10.2H7.4V11H8.6ZM9.842,7.55,9.3,8.1a2.043,2.043,0,0,0-.7,1.7H7.4V9.5a2.415,2.415,0,0,1,.7-1.7l.744-.756A1.173,1.173,0,0,0,9.2,6.2a1.2,1.2,0,0,0-2.4,0H5.6a2.4,2.4,0,1,1,4.8,0A1.909,1.909,0,0,1,9.842,7.55Z" fill="#9b9696"/>
+      </g>
+      <g id="check_circle-24px" transform="translate(490 980)">
+        <path id="Path_214" data-name="Path 214" d="M0,0H16V16H0Z" fill="none"/>
+        <path id="Path_215" data-name="Path 215" d="M8,2a6,6,0,1,0,6,6A6,6,0,0,0,8,2ZM6.8,11l-3-3,.846-.846L6.8,9.3l4.554-4.554L12.2,5.6Z" fill="#009edb"/>
+      </g>
+    </g>
+    <g id="Rectangle_1122" data-name="Rectangle 1122" transform="translate(555 1047)" fill="#fff" stroke="#009edb" stroke-width="1" stroke-dasharray="5 1">
+      <rect width="632" height="45" stroke="none"/>
+      <rect x="0.5" y="0.5" width="631" height="44" fill="none"/>
+    </g>
+    <text id="USE_PROMO_CODE" data-name="USE PROMO CODE" transform="translate(779 1074)" fill="#009edb" font-size="18" font-family="Cabin" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="0">USE PROMO CODE</tspan></text>
+    <rect id="Rectangle_1123" data-name="Rectangle 1123" width="632" height="271" transform="translate(555 755)" fill="#f7f7f7"/>
+    <text id="PRICE_DETAILS" data-name="PRICE DETAILS" transform="translate(579 784)" fill="#105088" font-size="18" font-family="Cabin" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="0">PRICE DETAILS</tspan></text>
+    <text id="Air_Transportation_Charges" data-name="Air Transportation Charges" transform="translate(579 820)" fill="#434343" font-size="16" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">Air Transportation Charges</tspan></text>
+    <text id="Baggage" transform="translate(579 855)" fill="#434343" font-size="16" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">Baggage</tspan></text>
+    <text id="Flight_Insurance" data-name="Flight Insurance" transform="translate(579 890)" fill="#434343" font-size="16" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">Flight Insurance</tspan></text>
+    <text id="Service_Fee" data-name="Service Fee" transform="translate(579 925)" fill="#434343" font-size="16" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">Service Fee</tspan></text>
+    <text id="TOTAL" transform="translate(580 976)" fill="#434343" font-size="16" font-family="Cabin" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">TOTAL</tspan></text>
+    <text id="IDR_2.167.000" data-name="IDR 2.167.000" transform="translate(1060 820)" fill="#434343" font-size="16" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">IDR 2.167.000</tspan></text>
+    <text id="FREE" transform="translate(1127 855)" fill="#00898c" font-size="16" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">FREE</tspan></text>
+    <text id="IDR_60.000" data-name="IDR 60.000" transform="translate(1074 890)" fill="#434343" font-size="16" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">IDR 60.000</tspan></text>
+    <text id="IDR_11.000" data-name="IDR 11.000" transform="translate(1084 925)" fill="#434343" font-size="16" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">IDR 11.000</tspan></text>
+    <text id="IDR_2.238.000" data-name="IDR 2.238.000" transform="translate(1040 977)" fill="#434343" font-size="18" font-family="Cabin" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">IDR 2.238.000</tspan></text>
+    <line id="Line_10" data-name="Line 10" x2="584" transform="translate(579.5 943.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectangle_1124" data-name="Rectangle 1124" width="250" height="60" rx="15" transform="translate(211 750)" fill="#fff"/>
+    <text id="ShopeePay" transform="translate(262 785)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">ShopeePay</tspan></text>
+    <rect id="Rectangle_1125" data-name="Rectangle 1125" width="250" height="60" rx="15" transform="translate(211 820)" fill="#fff"/>
+    <text id="Bank_Transfer" data-name="Bank Transfer" transform="translate(262 855)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">Bank Transfer</tspan></text>
+    <rect id="Rectangle_1126" data-name="Rectangle 1126" width="250" height="60" rx="15" transform="translate(211 890)" fill="#fff"/>
+    <text id="Alfamart" transform="translate(262 925)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">Alfamart</tspan></text>
+    <rect id="Rectangle_1127" data-name="Rectangle 1127" width="250" height="60" rx="15" transform="translate(211 960)" fill="#fff"/>
+    <text id="Indomaret" transform="translate(262 995)" fill="#105088" font-size="18" font-family="Cabin" font-weight="700"><tspan x="0" y="0">Indomaret</tspan></text>
+    <text id="SPECIAL_OFFERS" data-name="SPECIAL OFFERS" transform="translate(556 617)" fill="#9b9696" font-size="18" font-family="Cabin"><tspan x="0" y="0">SPECIAL OFFERS</tspan></text>
+    <text id="Change_Currency" data-name="Change Currency" transform="translate(1050 1002)" fill="#009edb" font-size="16" font-family="Cabin"><tspan x="0" y="0">Change Currency</tspan></text>
+    <g id="loop-24px" transform="translate(1023.5 985)">
+      <path id="Path_220" data-name="Path 220" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_221" data-name="Path 221" d="M12,4V1L8,5l4,4V6a6,6,0,0,1,6,6,5.87,5.87,0,0,1-.7,2.8l1.46,1.46A7.986,7.986,0,0,0,12,4Zm0,14a6,6,0,0,1-6-6,5.87,5.87,0,0,1,.7-2.8L5.24,7.74A7.986,7.986,0,0,0,12,20v3l4-4-4-4Z" fill="#009edb"/>
+    </g>
+    <g id="Group_55" data-name="Group 55">
+      <g transform="matrix(1, 0, 0, 1, 0, -3)" filter="url(#Rectangle_1114)">
+        <rect id="Rectangle_1114-2" data-name="Rectangle 1114" width="420" height="550" transform="translate(1301 145)" fill="#fff"/>
+      </g>
+      <text id="YOUR_BOOKING" data-name="YOUR BOOKING" transform="translate(1328 224)" fill="#105088" font-size="18" font-family="Cabin"><tspan x="0" y="0">YOUR BOOKING</tspan></text>
+      <line id="Line_5" data-name="Line 5" x2="373" transform="translate(1317.5 250.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 5"/>
+      <text id="LIST_OF_PASSENGER_S_" data-name="LIST OF PASSENGER(S)" transform="translate(1328 291)" fill="#06243e" font-size="18" font-family="Cabin"><tspan x="0" y="0">LIST OF PASSENGER(S)</tspan></text>
+      <text id="Mr._John_Doe" data-name="Mr. John Doe" transform="translate(1328 325)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Mr. John Doe</tspan></text>
+      <text id="Adult" transform="translate(1648 325)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Adult</tspan></text>
+      <line id="Line_7" data-name="Line 7" x2="373" transform="translate(1317.5 360.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+      <text id="FLIGHT" transform="translate(1328 401)" fill="#06243e" font-size="18" font-family="Cabin"><tspan x="0" y="0">FLIGHT</tspan></text>
+      <text id="_23_Nov_2020" data-name="23 Nov 2020" transform="translate(1350 468)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">23 Nov 2020</tspan></text>
+      <text id="Jakarta_CGK_" data-name="Jakarta (CGK) " transform="translate(1350 434)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Jakarta (CGK) </tspan></text>
+      <g id="arrow_right_alt-24px" transform="translate(1470 415)">
+        <path id="Path_201" data-name="Path 201" d="M0,0H24V24H0Z" fill="none"/>
+        <path id="Path_202" data-name="Path 202" d="M16.01,11H4v2H16.01v3L20,12,16.01,8Z" fill="#434343"/>
+      </g>
+      <text id="Denpasar_DPS_" data-name="Denpasar (DPS) " transform="translate(1501 434)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Denpasar (DPS) </tspan></text>
+      <g id="date_range-24px" transform="translate(1320 449)">
+        <path id="Path_203" data-name="Path 203" d="M0,0H24V24H0Z" fill="none"/>
+        <path id="Path_204" data-name="Path 204" d="M9,11H7v2H9Zm4,0H11v2h2Zm4,0H15v2h2Zm2-7H18V2H16V4H8V2H6V4H5A1.991,1.991,0,0,0,3.01,6L3,20a2,2,0,0,0,2,2H19a2.006,2.006,0,0,0,2-2V6A2.006,2.006,0,0,0,19,4Zm0,16H5V9H19Z" fill="#434343"/>
+      </g>
+      <g id="airplanemode_active-24px" transform="translate(1319 416)">
+        <path id="Path_205" data-name="Path 205" d="M22,16V14L13.5,9V3.5a1.5,1.5,0,0,0-3,0V9L2,14v2l8.5-2.5V19L8,20.5V22l4-1,4,1V20.5L13.5,19V13.5Z" fill="#434343"/>
+        <path id="Path_206" data-name="Path 206" d="M0,0H24V24H0Z" fill="none"/>
+      </g>
+      <text id="Details" transform="translate(1635 224)" fill="#009edb" font-size="18" font-family="Cabin"><tspan x="0" y="0">Details</tspan></text>
+      <path id="suitcase" d="M131.708,6.362h-1.765V1.406h.844V0h-6.843V1.406h.844V6.362h-1.765a1.986,1.986,0,0,0-1.984,1.984V21.016A1.986,1.986,0,0,0,123.021,23h.828v1h1.406V23h4.218v1h1.406V23h.828a1.986,1.986,0,0,0,1.984-1.984V8.347a1.987,1.987,0,0,0-1.984-1.984Zm-6.452,13.42h-1.406V9.581h1.406Zm2.812,0h-1.406V9.581h1.406Zm.469-13.42h-2.344V1.406h2.344Zm2.343,13.42h-1.406V9.581h1.406Z" transform="translate(1204.963 483)" fill="#434343"/>
+      <text id="Baggage-2" data-name="Baggage" transform="translate(1350 502)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Baggage</tspan></text>
+      <text id="_20_Kg" data-name="20 Kg" transform="translate(1642 502)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">20 Kg</tspan></text>
+      <line id="Line_14" data-name="Line 14" x2="373" transform="translate(1317.5 537.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+      <text id="ADD_ON" data-name="ADD ON" transform="translate(1328 578)" fill="#06243e" font-size="18" font-family="Cabin"><tspan x="0" y="0">ADD ON</tspan></text>
+      <text id="Insurance" transform="translate(1328 611)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Insurance</tspan></text>
+      <text id="DOM-One_Way" data-name="DOM-One Way" transform="translate(1571 611)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">DOM-One Way</tspan></text>
+    </g>
+    <rect id="Rectangle_1137" data-name="Rectangle 1137" width="1920" height="1142" transform="translate(0 119)" fill="#fff"/>
+    <rect id="Rectangle_1130" data-name="Rectangle 1130" width="800" height="700" rx="5" transform="translate(560 319)" fill="#fff"/>
+    <text id="Promo_Code_and_Voucher" data-name="Promo Code and Voucher" transform="translate(842 371)" fill="#434343" font-size="22" font-family="Cabin"><tspan x="0" y="0">Promo Code and Voucher</tspan></text>
+    <g id="Group_35" data-name="Group 35" transform="translate(-3392 -1028)">
+      <g id="Rectangle_1102-2" data-name="Rectangle 1102" transform="translate(4042 1428)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="450" height="50" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="449" height="49" rx="4.5" fill="none"/>
+      </g>
+      <rect id="Rectangle_1116-2" data-name="Rectangle 1116" width="150" height="50" rx="5" transform="translate(4512 1428)" fill="#105088"/>
+      <text id="Apply" transform="translate(4563 1459)" fill="#f7f7f7" font-size="18" font-family="Cabin" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Apply</tspan></text>
+    </g>
+    <text id="Input_promo_code_here_" data-name="Input promo code here…" transform="translate(670 431)" fill="#9b9696" font-size="18" font-family="Cabin"><tspan x="0" y="0">Input promo code here…</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, -3)" filter="url(#Rectangle_1132)">
+      <g id="Rectangle_1132-2" data-name="Rectangle 1132" transform="translate(636 522)" fill="#f7f7f7" stroke="#009edb" stroke-width="2">
+        <rect width="650" height="100" rx="2" stroke="none"/>
+        <rect x="1" y="1" width="648" height="98" rx="1" fill="none"/>
+      </g>
+    </g>
+    <text id="Diskon_Rp._100.000_untuk_rapid_test" data-name="Diskon Rp. 100.000 untuk rapid test" transform="translate(763 551)" fill="#009edb" font-size="22" font-family="Cabin"><tspan x="0" y="0">Diskon Rp. 100.000 untuk rapid test</tspan></text>
+    <text id="Valid_until_23_Nov_2020" data-name="Valid until 23 Nov 2020" transform="translate(763 601)" fill="#75777b" font-size="14" font-family="Cabin"><tspan x="0" y="0">Valid until 23 Nov 2020</tspan></text>
+    <text id="S_K_Berlaku" data-name="S&amp;K Berlaku" transform="translate(1199 601)" fill="#105088" font-size="14" font-family="Cabin"><tspan x="0" y="0">S&amp;K Berlaku</tspan></text>
+    <text id="Discount" transform="translate(915 496)" fill="#434343" font-size="24" font-family="Cabin"><tspan x="0" y="0">Discount</tspan></text>
+    <text id="Kode_Promo:_RapidTest" data-name="Kode Promo: RapidTest" transform="translate(763 578)" fill="#c44a21" font-size="16" font-family="Cabin"><tspan x="0" y="0">Kode Promo: RapidTest</tspan></text>
+    <g id="Rectangle_1133" data-name="Rectangle 1133" transform="translate(636 519)" fill="#009edb" stroke="#009edb" stroke-width="1">
+      <rect width="100" height="100" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="99" fill="none"/>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(-4110 -989.904)">
+      <g id="discount-2" data-name="discount" transform="translate(4773 1535)">
+        <path id="Path_222" data-name="Path 222" d="M87.543,70.457A16.983,16.983,0,1,0,104.526,87.44,17,17,0,0,0,87.543,70.457Zm0,31.216A14.233,14.233,0,1,1,101.776,87.44,14.249,14.249,0,0,1,87.543,101.673Z" transform="translate(-64.101 -63.997)" fill="#fff"/>
+        <path id="Path_223" data-name="Path 223" d="M45.483,19.615a4.834,4.834,0,0,1-1.038-3.922c.217-2.79-.153-4.89-3.772-6.5a4.837,4.837,0,0,1-2.88-2.88C36.534,3.7,35.211,2.159,31.3,2.543a4.827,4.827,0,0,1-3.922-1.038C25-.133,22.955-.842,19.72,1.506A4.835,4.835,0,0,1,15.8,2.543c-2.79-.216-4.89.153-6.5,3.772A4.837,4.837,0,0,1,6.421,9.2c-2.616,1.259-4.157,2.582-3.772,6.5a4.828,4.828,0,0,1-1.038,3.922c-1.638,2.377-2.347,4.419,0,7.653a4.835,4.835,0,0,1,1.038,3.922c-.217,2.79.153,4.89,3.772,6.5a4.837,4.837,0,0,1,2.88,2.88c1.259,2.616,2.582,4.157,6.5,3.772a4.828,4.828,0,0,1,3.922,1.038A7.074,7.074,0,0,0,23.547,46.9a7.073,7.073,0,0,0,3.827-1.525A4.835,4.835,0,0,1,31.3,44.34c2.791.217,4.89-.153,6.5-3.772a4.837,4.837,0,0,1,2.88-2.88c2.616-1.259,4.157-2.582,3.772-6.5a4.828,4.828,0,0,1,1.038-3.922c1.638-2.377,2.347-4.419,0-7.653Zm-2.3,6.144A7.551,7.551,0,0,0,41.7,31.34c.139,2.126.107,2.829-2.265,3.893a7.555,7.555,0,0,0-4.1,4.1c-.952,1.944-1.34,2.519-3.893,2.265a7.546,7.546,0,0,0-5.58,1.485c-1.8,1.228-2.541,1.528-4.635,0a7.143,7.143,0,0,0-4.356-1.529c-.411,0-.82.022-1.224.044-2.126.138-2.829.107-3.893-2.265a7.556,7.556,0,0,0-4.1-4.1c-1.944-.952-2.519-1.34-2.265-3.893A7.547,7.547,0,0,0,3.91,25.76c-1.228-1.8-1.528-2.541,0-4.635a7.551,7.551,0,0,0,1.485-5.58,5.01,5.01,0,0,1,.213-2.459,5.028,5.028,0,0,1,2.052-1.434,7.556,7.556,0,0,0,4.1-4.1c.952-1.944,1.34-2.519,3.893-2.265a7.547,7.547,0,0,0,5.58-1.485c1.8-1.228,2.541-1.528,4.635,0a7.55,7.55,0,0,0,5.58,1.485c2.127-.138,2.829-.107,3.893,2.265a7.555,7.555,0,0,0,4.1,4.1c1.944.952,2.519,1.34,2.265,3.893a7.546,7.546,0,0,0,1.484,5.58c1.228,1.8,1.528,2.541,0,4.635Z" transform="translate(-0.104 0.001)" fill="#fff"/>
+        <path id="Path_224" data-name="Path 224" d="M154.566,158.6a4.137,4.137,0,1,0-4.137-4.137A4.142,4.142,0,0,0,154.566,158.6Zm0-5.524a1.387,1.387,0,1,1-1.387,1.387A1.388,1.388,0,0,1,154.566,153.076Z" transform="translate(-136.647 -136.544)" fill="#fff"/>
+        <path id="Path_225" data-name="Path 225" d="M275.066,270.826a4.137,4.137,0,1,0,4.137,4.137A4.142,4.142,0,0,0,275.066,270.826Zm0,5.524a1.387,1.387,0,1,1,1.387-1.387A1.388,1.388,0,0,1,275.066,276.35Z" transform="translate(-246.1 -245.997)" fill="#fff"/>
+        <path id="Path_226" data-name="Path 226" d="M0,0H22.452V2.75H0Z" transform="translate(14.572 30.363) rotate(-45)" fill="#fff"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, -3)" filter="url(#Rectangle_1134)">
+      <rect id="Rectangle_1134-2" data-name="Rectangle 1134" width="650" height="100" rx="2" transform="translate(636 645)" fill="#fff"/>
+    </g>
+    <text id="Diskon_10_untuk_pembayaran_menggunakan_BCA" data-name="Diskon 10% untuk pembayaran menggunakan BCA" transform="translate(763 674)" fill="#009edb" font-size="22" font-family="Cabin"><tspan x="0" y="0">Diskon 10% untuk pembayaran menggunakan BCA</tspan></text>
+    <text id="Valid_until_23_Nov_2020-2" data-name="Valid until 23 Nov 2020" transform="translate(763 724)" fill="#75777b" font-size="14" font-family="Cabin"><tspan x="0" y="0">Valid until 23 Nov 2020</tspan></text>
+    <text id="S_K_Berlaku-2" data-name="S&amp;K Berlaku" transform="translate(1199 724)" fill="#105088" font-size="14" font-family="Cabin"><tspan x="0" y="0">S&amp;K Berlaku</tspan></text>
+    <text id="Kode_Promo:_BCAGA" data-name="Kode Promo: BCAGA" transform="translate(763 701)" fill="#c44a21" font-size="16" font-family="Cabin"><tspan x="0" y="0">Kode Promo: BCAGA</tspan></text>
+    <g id="Group_38" data-name="Group 38" transform="translate(-3420 -888)">
+      <rect id="Rectangle_1133-2" data-name="Rectangle 1133" width="100" height="100" transform="translate(4056 1530)" fill="#009edb"/>
+      <g id="Group_36-2" data-name="Group 36" transform="translate(-690 21.096)">
+        <g id="discount-3" data-name="discount" transform="translate(4773 1535)">
+          <path id="Path_222-2" data-name="Path 222" d="M87.543,70.457A16.983,16.983,0,1,0,104.526,87.44,17,17,0,0,0,87.543,70.457Zm0,31.216A14.233,14.233,0,1,1,101.776,87.44,14.249,14.249,0,0,1,87.543,101.673Z" transform="translate(-64.101 -63.997)" fill="#fff"/>
+          <path id="Path_223-2" data-name="Path 223" d="M45.483,19.615a4.834,4.834,0,0,1-1.038-3.922c.217-2.79-.153-4.89-3.772-6.5a4.837,4.837,0,0,1-2.88-2.88C36.534,3.7,35.211,2.159,31.3,2.543a4.827,4.827,0,0,1-3.922-1.038C25-.133,22.955-.842,19.72,1.506A4.835,4.835,0,0,1,15.8,2.543c-2.79-.216-4.89.153-6.5,3.772A4.837,4.837,0,0,1,6.421,9.2c-2.616,1.259-4.157,2.582-3.772,6.5a4.828,4.828,0,0,1-1.038,3.922c-1.638,2.377-2.347,4.419,0,7.653a4.835,4.835,0,0,1,1.038,3.922c-.217,2.79.153,4.89,3.772,6.5a4.837,4.837,0,0,1,2.88,2.88c1.259,2.616,2.582,4.157,6.5,3.772a4.828,4.828,0,0,1,3.922,1.038A7.074,7.074,0,0,0,23.547,46.9a7.073,7.073,0,0,0,3.827-1.525A4.835,4.835,0,0,1,31.3,44.34c2.791.217,4.89-.153,6.5-3.772a4.837,4.837,0,0,1,2.88-2.88c2.616-1.259,4.157-2.582,3.772-6.5a4.828,4.828,0,0,1,1.038-3.922c1.638-2.377,2.347-4.419,0-7.653Zm-2.3,6.144A7.551,7.551,0,0,0,41.7,31.34c.139,2.126.107,2.829-2.265,3.893a7.555,7.555,0,0,0-4.1,4.1c-.952,1.944-1.34,2.519-3.893,2.265a7.546,7.546,0,0,0-5.58,1.485c-1.8,1.228-2.541,1.528-4.635,0a7.143,7.143,0,0,0-4.356-1.529c-.411,0-.82.022-1.224.044-2.126.138-2.829.107-3.893-2.265a7.556,7.556,0,0,0-4.1-4.1c-1.944-.952-2.519-1.34-2.265-3.893A7.547,7.547,0,0,0,3.91,25.76c-1.228-1.8-1.528-2.541,0-4.635a7.551,7.551,0,0,0,1.485-5.58,5.01,5.01,0,0,1,.213-2.459,5.028,5.028,0,0,1,2.052-1.434,7.556,7.556,0,0,0,4.1-4.1c.952-1.944,1.34-2.519,3.893-2.265a7.547,7.547,0,0,0,5.58-1.485c1.8-1.228,2.541-1.528,4.635,0a7.55,7.55,0,0,0,5.58,1.485c2.127-.138,2.829-.107,3.893,2.265a7.555,7.555,0,0,0,4.1,4.1c1.944.952,2.519,1.34,2.265,3.893a7.546,7.546,0,0,0,1.484,5.58c1.228,1.8,1.528,2.541,0,4.635Z" transform="translate(-0.104 0.001)" fill="#fff"/>
+          <path id="Path_224-2" data-name="Path 224" d="M154.566,158.6a4.137,4.137,0,1,0-4.137-4.137A4.142,4.142,0,0,0,154.566,158.6Zm0-5.524a1.387,1.387,0,1,1-1.387,1.387A1.388,1.388,0,0,1,154.566,153.076Z" transform="translate(-136.647 -136.544)" fill="#fff"/>
+          <path id="Path_225-2" data-name="Path 225" d="M275.066,270.826a4.137,4.137,0,1,0,4.137,4.137A4.142,4.142,0,0,0,275.066,270.826Zm0,5.524a1.387,1.387,0,1,1,1.387-1.387A1.388,1.388,0,0,1,275.066,276.35Z" transform="translate(-246.1 -245.997)" fill="#fff"/>
+          <path id="Path_226-2" data-name="Path 226" d="M0,0H22.452V2.75H0Z" transform="translate(14.572 30.363) rotate(-45)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, -3)" filter="url(#Rectangle_1135)">
+      <rect id="Rectangle_1135-2" data-name="Rectangle 1135" width="650" height="100" rx="2" transform="translate(636 763)" fill="#fff"/>
+    </g>
+    <text id="Diskon_20_untuk_pembayaran_menggunakan_BNI" data-name="Diskon 20% untuk pembayaran menggunakan BNI" transform="translate(763 792)" fill="#009edb" font-size="22" font-family="Cabin"><tspan x="0" y="0">Diskon 20% untuk pembayaran menggunakan BNI</tspan></text>
+    <text id="Valid_until_23_Nov_2020-3" data-name="Valid until 23 Nov 2020" transform="translate(763 842)" fill="#75777b" font-size="14" font-family="Cabin"><tspan x="0" y="0">Valid until 23 Nov 2020</tspan></text>
+    <text id="S_K_Berlaku-3" data-name="S&amp;K Berlaku" transform="translate(1199 842)" fill="#105088" font-size="14" font-family="Cabin"><tspan x="0" y="0">S&amp;K Berlaku</tspan></text>
+    <text id="Kode_Promo:_BNIGA" data-name="Kode Promo: BNIGA" transform="translate(763 819)" fill="#c44a21" font-size="16" font-family="Cabin"><tspan x="0" y="0">Kode Promo: BNIGA</tspan></text>
+    <g id="Group_39" data-name="Group 39" transform="translate(-3420 -770)">
+      <rect id="Rectangle_1133-3" data-name="Rectangle 1133" width="100" height="100" transform="translate(4056 1530)" fill="#009edb"/>
+      <g id="Group_36-3" data-name="Group 36" transform="translate(-690 21.096)">
+        <g id="discount-4" data-name="discount" transform="translate(4773 1535)">
+          <path id="Path_222-3" data-name="Path 222" d="M87.543,70.457A16.983,16.983,0,1,0,104.526,87.44,17,17,0,0,0,87.543,70.457Zm0,31.216A14.233,14.233,0,1,1,101.776,87.44,14.249,14.249,0,0,1,87.543,101.673Z" transform="translate(-64.101 -63.997)" fill="#fff"/>
+          <path id="Path_223-3" data-name="Path 223" d="M45.483,19.615a4.834,4.834,0,0,1-1.038-3.922c.217-2.79-.153-4.89-3.772-6.5a4.837,4.837,0,0,1-2.88-2.88C36.534,3.7,35.211,2.159,31.3,2.543a4.827,4.827,0,0,1-3.922-1.038C25-.133,22.955-.842,19.72,1.506A4.835,4.835,0,0,1,15.8,2.543c-2.79-.216-4.89.153-6.5,3.772A4.837,4.837,0,0,1,6.421,9.2c-2.616,1.259-4.157,2.582-3.772,6.5a4.828,4.828,0,0,1-1.038,3.922c-1.638,2.377-2.347,4.419,0,7.653a4.835,4.835,0,0,1,1.038,3.922c-.217,2.79.153,4.89,3.772,6.5a4.837,4.837,0,0,1,2.88,2.88c1.259,2.616,2.582,4.157,6.5,3.772a4.828,4.828,0,0,1,3.922,1.038A7.074,7.074,0,0,0,23.547,46.9a7.073,7.073,0,0,0,3.827-1.525A4.835,4.835,0,0,1,31.3,44.34c2.791.217,4.89-.153,6.5-3.772a4.837,4.837,0,0,1,2.88-2.88c2.616-1.259,4.157-2.582,3.772-6.5a4.828,4.828,0,0,1,1.038-3.922c1.638-2.377,2.347-4.419,0-7.653Zm-2.3,6.144A7.551,7.551,0,0,0,41.7,31.34c.139,2.126.107,2.829-2.265,3.893a7.555,7.555,0,0,0-4.1,4.1c-.952,1.944-1.34,2.519-3.893,2.265a7.546,7.546,0,0,0-5.58,1.485c-1.8,1.228-2.541,1.528-4.635,0a7.143,7.143,0,0,0-4.356-1.529c-.411,0-.82.022-1.224.044-2.126.138-2.829.107-3.893-2.265a7.556,7.556,0,0,0-4.1-4.1c-1.944-.952-2.519-1.34-2.265-3.893A7.547,7.547,0,0,0,3.91,25.76c-1.228-1.8-1.528-2.541,0-4.635a7.551,7.551,0,0,0,1.485-5.58,5.01,5.01,0,0,1,.213-2.459,5.028,5.028,0,0,1,2.052-1.434,7.556,7.556,0,0,0,4.1-4.1c.952-1.944,1.34-2.519,3.893-2.265a7.547,7.547,0,0,0,5.58-1.485c1.8-1.228,2.541-1.528,4.635,0a7.55,7.55,0,0,0,5.58,1.485c2.127-.138,2.829-.107,3.893,2.265a7.555,7.555,0,0,0,4.1,4.1c1.944.952,2.519,1.34,2.265,3.893a7.546,7.546,0,0,0,1.484,5.58c1.228,1.8,1.528,2.541,0,4.635Z" transform="translate(-0.104 0.001)" fill="#fff"/>
+          <path id="Path_224-3" data-name="Path 224" d="M154.566,158.6a4.137,4.137,0,1,0-4.137-4.137A4.142,4.142,0,0,0,154.566,158.6Zm0-5.524a1.387,1.387,0,1,1-1.387,1.387A1.388,1.388,0,0,1,154.566,153.076Z" transform="translate(-136.647 -136.544)" fill="#fff"/>
+          <path id="Path_225-3" data-name="Path 225" d="M275.066,270.826a4.137,4.137,0,1,0,4.137,4.137A4.142,4.142,0,0,0,275.066,270.826Zm0,5.524a1.387,1.387,0,1,1,1.387-1.387A1.388,1.388,0,0,1,275.066,276.35Z" transform="translate(-246.1 -245.997)" fill="#fff"/>
+          <path id="Path_226-3" data-name="Path 226" d="M0,0H22.452V2.75H0Z" transform="translate(14.572 30.363) rotate(-45)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, -3)" filter="url(#Rectangle_1136)">
+      <rect id="Rectangle_1136-2" data-name="Rectangle 1136" width="650" height="100" rx="2" transform="translate(636 886)" fill="#fff"/>
+    </g>
+    <text id="Diskon_15_untuk_pembayaran_menggunakan_GoPAy" data-name="Diskon 15% untuk pembayaran menggunakan GoPAy" transform="translate(763 915)" fill="#009edb" font-size="22" font-family="Cabin"><tspan x="0" y="0">Diskon 15% untuk pembayaran menggunakan GoPAy</tspan></text>
+    <text id="Valid_until_23_Nov_2020-4" data-name="Valid until 23 Nov 2020" transform="translate(763 965)" fill="#75777b" font-size="14" font-family="Cabin"><tspan x="0" y="0">Valid until 23 Nov 2020</tspan></text>
+    <text id="S_K_Berlaku-4" data-name="S&amp;K Berlaku" transform="translate(1199 965)" fill="#105088" font-size="14" font-family="Cabin"><tspan x="0" y="0">S&amp;K Berlaku</tspan></text>
+    <text id="Kode_Promo:_GOPAYGA" data-name="Kode Promo: GOPAYGA" transform="translate(763 942)" fill="#c44a21" font-size="16" font-family="Cabin"><tspan x="0" y="0">Kode Promo: GOPAYGA</tspan></text>
+    <g id="Group_40" data-name="Group 40" transform="translate(-3420 -647)">
+      <rect id="Rectangle_1133-4" data-name="Rectangle 1133" width="100" height="100" transform="translate(4056 1530)" fill="#009edb"/>
+      <g id="Group_36-4" data-name="Group 36" transform="translate(-690 21.096)">
+        <g id="discount-5" data-name="discount" transform="translate(4773 1535)">
+          <path id="Path_222-4" data-name="Path 222" d="M87.543,70.457A16.983,16.983,0,1,0,104.526,87.44,17,17,0,0,0,87.543,70.457Zm0,31.216A14.233,14.233,0,1,1,101.776,87.44,14.249,14.249,0,0,1,87.543,101.673Z" transform="translate(-64.101 -63.997)" fill="#fff"/>
+          <path id="Path_223-4" data-name="Path 223" d="M45.483,19.615a4.834,4.834,0,0,1-1.038-3.922c.217-2.79-.153-4.89-3.772-6.5a4.837,4.837,0,0,1-2.88-2.88C36.534,3.7,35.211,2.159,31.3,2.543a4.827,4.827,0,0,1-3.922-1.038C25-.133,22.955-.842,19.72,1.506A4.835,4.835,0,0,1,15.8,2.543c-2.79-.216-4.89.153-6.5,3.772A4.837,4.837,0,0,1,6.421,9.2c-2.616,1.259-4.157,2.582-3.772,6.5a4.828,4.828,0,0,1-1.038,3.922c-1.638,2.377-2.347,4.419,0,7.653a4.835,4.835,0,0,1,1.038,3.922c-.217,2.79.153,4.89,3.772,6.5a4.837,4.837,0,0,1,2.88,2.88c1.259,2.616,2.582,4.157,6.5,3.772a4.828,4.828,0,0,1,3.922,1.038A7.074,7.074,0,0,0,23.547,46.9a7.073,7.073,0,0,0,3.827-1.525A4.835,4.835,0,0,1,31.3,44.34c2.791.217,4.89-.153,6.5-3.772a4.837,4.837,0,0,1,2.88-2.88c2.616-1.259,4.157-2.582,3.772-6.5a4.828,4.828,0,0,1,1.038-3.922c1.638-2.377,2.347-4.419,0-7.653Zm-2.3,6.144A7.551,7.551,0,0,0,41.7,31.34c.139,2.126.107,2.829-2.265,3.893a7.555,7.555,0,0,0-4.1,4.1c-.952,1.944-1.34,2.519-3.893,2.265a7.546,7.546,0,0,0-5.58,1.485c-1.8,1.228-2.541,1.528-4.635,0a7.143,7.143,0,0,0-4.356-1.529c-.411,0-.82.022-1.224.044-2.126.138-2.829.107-3.893-2.265a7.556,7.556,0,0,0-4.1-4.1c-1.944-.952-2.519-1.34-2.265-3.893A7.547,7.547,0,0,0,3.91,25.76c-1.228-1.8-1.528-2.541,0-4.635a7.551,7.551,0,0,0,1.485-5.58,5.01,5.01,0,0,1,.213-2.459,5.028,5.028,0,0,1,2.052-1.434,7.556,7.556,0,0,0,4.1-4.1c.952-1.944,1.34-2.519,3.893-2.265a7.547,7.547,0,0,0,5.58-1.485c1.8-1.228,2.541-1.528,4.635,0a7.55,7.55,0,0,0,5.58,1.485c2.127-.138,2.829-.107,3.893,2.265a7.555,7.555,0,0,0,4.1,4.1c1.944.952,2.519,1.34,2.265,3.893a7.546,7.546,0,0,0,1.484,5.58c1.228,1.8,1.528,2.541,0,4.635Z" transform="translate(-0.104 0.001)" fill="#fff"/>
+          <path id="Path_224-4" data-name="Path 224" d="M154.566,158.6a4.137,4.137,0,1,0-4.137-4.137A4.142,4.142,0,0,0,154.566,158.6Zm0-5.524a1.387,1.387,0,1,1-1.387,1.387A1.388,1.388,0,0,1,154.566,153.076Z" transform="translate(-136.647 -136.544)" fill="#fff"/>
+          <path id="Path_225-4" data-name="Path 225" d="M275.066,270.826a4.137,4.137,0,1,0,4.137,4.137A4.142,4.142,0,0,0,275.066,270.826Zm0,5.524a1.387,1.387,0,1,1,1.387-1.387A1.388,1.388,0,0,1,275.066,276.35Z" transform="translate(-246.1 -245.997)" fill="#fff"/>
+          <path id="Path_226-4" data-name="Path 226" d="M0,0H22.452V2.75H0Z" transform="translate(14.572 30.363) rotate(-45)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="close-24px" transform="translate(1328 326)">
+      <path id="Path_227" data-name="Path 227" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_228" data-name="Path 228" d="M19,6.41,17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12Z"/>
+    </g>
+    <g id="check_circle-24px-2" data-name="check_circle-24px" transform="translate(1252 526)">
+      <path id="Path_243" data-name="Path 243" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_244" data-name="Path 244" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2ZM10,17,5,12l1.41-1.41L10,14.17l7.59-7.59L19,8Z" fill="#009edb"/>
+    </g>
+    <image id="logo-color" width="46" height="44" transform="translate(313 18)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAsCAYAAAAacYo8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQyIDc5LjE2MDkyNCwgMjAxNy8wNy8xMy0wMTowNjozOSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpGOUQyOUJFMEE5RDkxMUU5OEM1MEFDQkFFQUY5NEExOSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpGOUQyOUJFMUE5RDkxMUU5OEM1MEFDQkFFQUY5NEExOSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkY5RDI5QkRFQTlEOTExRTk4QzUwQUNCQUVBRjk0QTE5IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkY5RDI5QkRGQTlEOTExRTk4QzUwQUNCQUVBRjk0QTE5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+XHtmHwAAEX9JREFUeNq8WQmMXMWZ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"/>
+    <g id="Group_65" data-name="Group 65">
+      <g id="Group_66" data-name="Group 66">
+        <rect id="Rectangle_1128" data-name="Rectangle 1128" width="1920" height="40" transform="translate(0 79)" fill="#6f4ca1"/>
+        <g id="Group_33" data-name="Group 33" transform="translate(100)">
+          <g id="alarm_on-24px" transform="translate(975 87)">
+            <path id="Path_210" data-name="Path 210" d="M0,0H24V24H0Z" fill="none"/>
+            <path id="Path_211" data-name="Path 211" d="M22,5.72,17.4,1.86,16.11,3.39l4.6,3.86ZM7.88,3.39,6.6,1.86,2,5.71,3.29,7.24,7.88,3.39ZM12,4a9,9,0,1,0,9,9A9,9,0,0,0,12,4Zm0,16a7,7,0,1,1,7-7A6.995,6.995,0,0,1,12,20Zm-1.46-5.47L8.41,12.4,7.35,13.46l3.18,3.18,6-6L15.47,9.58l-4.93,4.95Z" fill="#ffc70c"/>
+          </g>
+          <text id="Complete_Payment_in_00:01:19" data-name="Complete Payment in 00:01:19" transform="translate(721 106)" fill="#fff" font-size="18" font-family="Cabin"><tspan x="0" y="0">Complete Payment in </tspan><tspan y="0" fill="#ffc70b" font-weight="500">00:01:19</tspan></text>
+        </g>
+      </g>
+    </g>
+    <rect id="Base-2" data-name="Base" width="1920" height="82" transform="translate(1989 -3)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="76" viewBox="0 0 172 76">
+  <g id="Group_12" data-name="Group 12" transform="translate(-1142 -758)">
+    <text id="_10202" data-name="10202" transform="translate(1172 816)" fill="#9b9696" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.03em"><tspan x="0" y="0">10202</tspan></text>
+    <text id="ZIP_Code" data-name="ZIP Code" transform="translate(1142 773)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">ZIP Code</tspan></text>
+    <g id="Rectangle_1115" data-name="Rectangle 1115" transform="translate(1142 784)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="172" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="49" rx="9.5" fill="none"/>
+    </g>
+  </g>
+</svg>

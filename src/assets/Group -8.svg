@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="369" height="76" viewBox="0 0 369 76">
+  <g id="Group_13" data-name="Group 13" transform="translate(-576 -852)">
+    <text id="example_email.com" data-name="example@email.com" transform="translate(606 910)" fill="#9b9696" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.03em"><tspan x="0" y="0">example@email.com</tspan></text>
+    <g id="Rectangle_1112" data-name="Rectangle 1112" transform="translate(576 878)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="369" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="368" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="Email" transform="translate(576 867)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Email</tspan></text>
+  </g>
+</svg>

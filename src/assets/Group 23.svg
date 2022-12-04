@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="76" viewBox="0 0 330 76">
+  <g id="Group_23" data-name="Group 23" transform="translate(-490 -226)">
+    <text id="_2018_2706_2311_1910" data-name="2018  2706  2311  1910" transform="translate(520 284)" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve">2018  2706  2311  1910</tspan></text>
+    <g id="Rectangle_1105" data-name="Rectangle 1105" transform="translate(490 252)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="330" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="329" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="Card_Number_" data-name="Card Number *" transform="translate(490 241)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Card Number *</tspan></text>
+  </g>
+</svg>

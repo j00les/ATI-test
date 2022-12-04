@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="562" viewBox="0 0 432 562">
+  <defs>
+    <filter id="Rectangle_1114" x="0" y="0" width="432" height="562" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_54" data-name="Group 54" transform="translate(-1295 -138)">
+    <g transform="matrix(1, 0, 0, 1, 1295, 138)" filter="url(#Rectangle_1114)">
+      <rect id="Rectangle_1114-2" data-name="Rectangle 1114" width="420" height="550" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <text id="YOUR_BOOKING" data-name="YOUR BOOKING" transform="translate(1328 224)" fill="#105088" font-size="18" font-family="Cabin"><tspan x="0" y="0">YOUR BOOKING</tspan></text>
+    <line id="Line_5" data-name="Line 5" x2="373" transform="translate(1317.5 250.5)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5 5"/>
+    <text id="LIST_OF_PASSENGER_S_" data-name="LIST OF PASSENGER(S)" transform="translate(1328 291)" fill="#06243e" font-size="18" font-family="Cabin"><tspan x="0" y="0">LIST OF PASSENGER(S)</tspan></text>
+    <text id="Mr._John_Doe" data-name="Mr. John Doe" transform="translate(1328 325)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Mr. John Doe</tspan></text>
+    <text id="Adult" transform="translate(1648 325)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Adult</tspan></text>
+    <line id="Line_7" data-name="Line 7" x2="373" transform="translate(1317.5 360.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+    <text id="FLIGHT" transform="translate(1328 401)" fill="#06243e" font-size="18" font-family="Cabin"><tspan x="0" y="0">FLIGHT</tspan></text>
+    <text id="_23_Nov_2020" data-name="23 Nov 2020" transform="translate(1350 468)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">23 Nov 2020</tspan></text>
+    <text id="Jakarta_CGK_" data-name="Jakarta (CGK) " transform="translate(1350 434)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Jakarta (CGK) </tspan></text>
+    <g id="arrow_right_alt-24px" transform="translate(1470 415)">
+      <path id="Path_201" data-name="Path 201" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_202" data-name="Path 202" d="M16.01,11H4v2H16.01v3L20,12,16.01,8Z" fill="#434343"/>
+    </g>
+    <text id="Denpasar_DPS_" data-name="Denpasar (DPS) " transform="translate(1501 434)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Denpasar (DPS) </tspan></text>
+    <g id="date_range-24px" transform="translate(1320 449)">
+      <path id="Path_203" data-name="Path 203" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_204" data-name="Path 204" d="M9,11H7v2H9Zm4,0H11v2h2Zm4,0H15v2h2Zm2-7H18V2H16V4H8V2H6V4H5A1.991,1.991,0,0,0,3.01,6L3,20a2,2,0,0,0,2,2H19a2.006,2.006,0,0,0,2-2V6A2.006,2.006,0,0,0,19,4Zm0,16H5V9H19Z" fill="#434343"/>
+    </g>
+    <g id="airplanemode_active-24px" transform="translate(1319 416)">
+      <path id="Path_205" data-name="Path 205" d="M22,16V14L13.5,9V3.5a1.5,1.5,0,0,0-3,0V9L2,14v2l8.5-2.5V19L8,20.5V22l4-1,4,1V20.5L13.5,19V13.5Z" fill="#434343"/>
+      <path id="Path_206" data-name="Path 206" d="M0,0H24V24H0Z" fill="none"/>
+    </g>
+    <text id="Details" transform="translate(1635 224)" fill="#009edb" font-size="18" font-family="Cabin"><tspan x="0" y="0">Details</tspan></text>
+    <path id="suitcase" d="M131.708,6.362h-1.765V1.406h.844V0h-6.843V1.406h.844V6.362h-1.765a1.986,1.986,0,0,0-1.984,1.984V21.016A1.986,1.986,0,0,0,123.021,23h.828v1h1.406V23h4.218v1h1.406V23h.828a1.986,1.986,0,0,0,1.984-1.984V8.347a1.987,1.987,0,0,0-1.984-1.984Zm-6.452,13.42h-1.406V9.581h1.406Zm2.812,0h-1.406V9.581h1.406Zm.469-13.42h-2.344V1.406h2.344Zm2.343,13.42h-1.406V9.581h1.406Z" transform="translate(1204.963 483)" fill="#434343"/>
+    <text id="Baggage" transform="translate(1350 502)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Baggage</tspan></text>
+    <text id="_20_Kg" data-name="20 Kg" transform="translate(1642 502)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">20 Kg</tspan></text>
+    <line id="Line_14" data-name="Line 14" x2="373" transform="translate(1317.5 537.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+    <text id="ADD_ON" data-name="ADD ON" transform="translate(1328 578)" fill="#06243e" font-size="18" font-family="Cabin"><tspan x="0" y="0">ADD ON</tspan></text>
+    <text id="Insurance" transform="translate(1328 611)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">Insurance</tspan></text>
+    <text id="DOM-One_Way" data-name="DOM-One Way" transform="translate(1571 611)" fill="#434343" font-size="18" font-family="Cabin"><tspan x="0" y="0">DOM-One Way</tspan></text>
+  </g>
+</svg>

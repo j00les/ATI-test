@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="76" viewBox="0 0 260 76">
+  <g id="Group_10" data-name="Group 10" transform="translate(-576 -758)">
+    <text id="DKI_Jakarta" data-name="DKI Jakarta" transform="translate(606 816)" fill="#9b9696" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.03em"><tspan x="0" y="0">DKI Jakarta</tspan></text>
+    <g id="Rectangle_1109" data-name="Rectangle 1109" transform="translate(576 784)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="260" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="259" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="Province_State" data-name="Province/State" transform="translate(576 773)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Province/State</tspan></text>
+  </g>
+</svg>

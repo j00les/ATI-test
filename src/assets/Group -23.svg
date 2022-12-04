@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="278" height="24" viewBox="0 0 278 24">
+  <g id="Group_33" data-name="Group 33" transform="translate(-721 -87)">
+    <text id="Complete_Payment_in_00:01:19" data-name="Complete Payment in 00:01:19" transform="translate(721 106)" fill="#fff" font-size="18" font-family="Cabin"><tspan x="0" y="0">Complete Payment in </tspan><tspan y="0" fill="#ffc50d" font-weight="500">00:01:19</tspan></text>
+    <g id="alarm_on-24px" transform="translate(975 87)">
+      <path id="Path_210" data-name="Path 210" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_211" data-name="Path 211" d="M22,5.72,17.4,1.86,16.11,3.39l4.6,3.86ZM7.88,3.39,6.6,1.86,2,5.71,3.29,7.24,7.88,3.39ZM12,4a9,9,0,1,0,9,9A9,9,0,0,0,12,4Zm0,16a7,7,0,1,1,7-7A6.995,6.995,0,0,1,12,20Zm-1.46-5.47L8.41,12.4,7.35,13.46l3.18,3.18,6-6L15.47,9.58l-4.93,4.95Z" fill="#ffc40f"/>
+    </g>
+  </g>
+</svg>

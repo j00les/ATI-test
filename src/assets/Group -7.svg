@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="76" viewBox="0 0 260 76">
+  <g id="Group_11" data-name="Group 11" transform="translate(-859 -758)">
+    <text id="Jakarta" transform="translate(889 816)" fill="#9b9696" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.03em"><tspan x="0" y="0">Jakarta</tspan></text>
+    <g id="Rectangle_1110" data-name="Rectangle 1110" transform="translate(859 784)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="260" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="259" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="City" transform="translate(859 773)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">City</tspan></text>
+  </g>
+</svg>

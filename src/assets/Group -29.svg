@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="331" height="75" viewBox="0 0 331 75">
+  <g id="Group_29" data-name="Group 29" transform="translate(-489 -360)">
+    <text id="Expiration_Date_" data-name="Expiration Date *" transform="translate(489 374)" font-size="14" font-family="Cabin" font-weight="500"><tspan x="0" y="0">Expiration Date *</tspan></text>
+    <g id="Rectangle_1102" data-name="Rectangle 1102" transform="translate(489 385)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="331" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="330" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="MM_YY" data-name="MM/YY" transform="translate(519 417)" fill="#9b9696" font-size="18" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">MM/YY</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="354" height="76" viewBox="0 0 354 76">
+  <g id="Group_14" data-name="Group 14" transform="translate(-960 -852)">
+    <text id="_0812_3456_7890" data-name="0812 3456 7890" transform="translate(990 910)" fill="#9b9696" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.03em"><tspan x="0" y="0">0812 3456 7890</tspan></text>
+    <g id="Rectangle_1113" data-name="Rectangle 1113" transform="translate(960 878)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="354" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="353" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="Phone" transform="translate(960 867)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Phone</tspan></text>
+  </g>
+</svg>

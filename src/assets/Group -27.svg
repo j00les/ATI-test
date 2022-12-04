@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="75" viewBox="0 0 330 75">
+  <g id="Group_7" data-name="Group 7" transform="translate(-576 -571)">
+    <text id="John_Doe" data-name="John Doe" transform="translate(606 628)" font-size="18" font-family="Cabin" letter-spacing="0.03em"><tspan x="0" y="0">John Doe</tspan></text>
+    <g id="Rectangle_1106" data-name="Rectangle 1106" transform="translate(576 596)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="330" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="329" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="Card_Holder_Name_" data-name="Card Holder Name *" transform="translate(576 585)" font-size="14" font-family="Cabin" font-weight="500"><tspan x="0" y="0">Card Holder Name *</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="76" viewBox="0 0 330 76">
+  <g id="Group_9" data-name="Group 9" transform="translate(-984 -664)">
+    <text id="Indonesia" transform="translate(1014 722)" fill="#9b9696" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.03em"><tspan x="0" y="0">Indonesia</tspan></text>
+    <g id="Rectangle_1108" data-name="Rectangle 1108" transform="translate(984 690)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="330" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="329" height="49" rx="9.5" fill="none"/>
+    </g>
+    <text id="Country" transform="translate(984 679)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Country</tspan></text>
+    <g id="expand_more-24px" transform="translate(1273 703)">
+      <path id="Path_207" data-name="Path 207" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_208" data-name="Path 208" d="M16.59,8.59,12,13.17,7.41,8.59,6,10l6,6,6-6Z"/>
+    </g>
+  </g>
+</svg>
