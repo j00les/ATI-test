@@ -9,66 +9,81 @@ export default function Input({
   redeemInput,
 }) {
   const cardNum = (
-    <label className="flex flex-col">
+    <label className="flex flex-col w-[20rem] justify-between items-start">
       Card Number
-      <input type="text" placeholder="Type here" className="input w-full" name="number" />
+      <input
+        type="text"
+        placeholder="Type here"
+        className="input w-full input-bordered border-black"
+        name="number"
+      />
     </label>
   );
   const expDate = (
-    <div className="flex">
-      <label className="flex flex-col">
-        asdklj
-        <select className="select w-full max-w-xs">
-          <option disabled selected>
-            Pick your favorite Simpson
-          </option>
-          <option>Homer</option>
-          <option>Marge</option>
-          <option>Bart</option>
-          <option>Lisa</option>
-          <option>Maggie</option>
+    <div className="flex font-semibold justify-between mt-4">
+      <label className="flex flex-col w-[13rem] justify-center">
+        Expiration Date *
+        <select className="select w-full max-w-xs border-black text-graytext select-bordered">
+          <option selected>No Installment</option>
         </select>
       </label>
-      <label className="flex flex-col">
-        asdklj
-        <select className="select w-full max-w-xs">
+
+      <label className=" w-[13rem] mt-6 ">
+        <select className="select text-graytext w-full border-black max-w-xs select-bordered">
           <option disabled selected>
-            Pick your favorite Simpson
+            Year
           </option>
-          <option>Homer</option>
-          <option>Marge</option>
-          <option>Bart</option>
-          <option>Lisa</option>
-          <option>Maggie</option>
         </select>
       </label>
-      <label>
-        CVC
-        <input type="text" placeholder="Type here" className="input w-full" name="number" />
+
+      <label className="">
+        CVC *
+        <input
+          type="text"
+          placeholder="* * *"
+          className="input w-full border-black"
+          name="number"
+        />
       </label>
     </div>
   );
   const cardHolder = (
-    <label className="flex flex-col">
+    <label className="flex flex-col w-[20rem] mb-4">
       Card Holder Name
-      <input type="text" placeholder="Type here" className="input w-full" name="number" />
+      <input
+        type="text"
+        placeholder="Type here"
+        className="input w-full border-black"
+        name="number"
+      />
     </label>
   );
+
   const address = (
-    <div className="flex">
-      <label>
+    <div className="flex mb-4 justify-between">
+      <label className="w-[22rem]">
         Address
-        <input type="text" placeholder="Type here" className="input w-full" name="number" />
+        <input
+          type="text"
+          placeholder="Type here"
+          className="input w-full input-bordered border-black"
+          name="number"
+        />
       </label>
-      <label>
+      <label className="w-[22rem]">
         Country
-        <input type="text" placeholder="Type here" className="input w-full" name="number" />
+        <input
+          type="text"
+          placeholder="Type here"
+          className="input w-full input-bordered border-black "
+          name="number"
+        />
       </label>
     </div>
   );
 
   const province = (
-    <div className="flex">
+    <div className="flex gap-5">
       <label>
         Province/State
         <input
@@ -100,7 +115,7 @@ export default function Input({
   );
 
   const email = (
-    <div className="flex justify-between font-semibold text-sm">
+    <div className="flex justify-between font-semibold text-sm mt-4">
       <label className="w-[22rem] ">
         Email
         <input

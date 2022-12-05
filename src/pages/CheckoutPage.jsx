@@ -55,7 +55,7 @@ export default function CheckoutPage() {
             </div>
             <div className="col-start-5 border col-end-6 p-4 h-fit">
               <div className="flex justify-between items-center border-b-[1px] border-dashed border-[#767676] pb-2 mb-2">
-                <p className="text-sidebar-text uppercase font-normal">your booking</p>
+                <p className="text-sidebar-text uppercase font-semibold">your booking</p>
                 <p className="text-sm text-[#009edb]">Details</p>
               </div>
               <div className="border-b-[1px] border-grayborder">
@@ -71,13 +71,10 @@ export default function CheckoutPage() {
                 <p className=" uppercase mt-2 ml-2">Flight</p>
                 <div className="flex text-sm gap-1">
                   <Flight />
-
                   <p className="ml-1">Jakarta(CGK)</p>
-
                   <div className="mx-1">
                     <Arrow />
                   </div>
-
                   <p>Denpasar(DPS)</p>
                 </div>
                 <div className="flex">
@@ -97,9 +94,8 @@ export default function CheckoutPage() {
                   </div>
                 </div>
               </div>
-            </div>{" "}
+            </div>
           </div>
-
           <div className="bg-footer flex text-white px-[7rem] py-2 justify-between">
             <div>
               <p>© 2020. PT Garuda Indonesia(Persero) Tbk. All right reserved.</p>

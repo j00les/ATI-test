@@ -1,17 +1,24 @@
 import Input from "./Input";
 import { ReactComponent as MasterCard } from "../assets/Group -25.svg";
+import { ReactComponent as Lock } from "../assets/lock-3.svg";
+import { ReactComponent as Info } from "../assets/error_outline-1.svg";
 
 export default function CreditCard() {
   return (
-    <section className="px-10 ">
+    <section className="px-10 py-7">
       <div id="card-details font-semibold text-sm">
-        <article className="flex justify-between">
-          <p className="uppercase">card details</p>
-          <p className="uppercase">secure</p>
+        <article className="flex justify-between border-b border-dashed border-grayborder mb-4 pb-4">
+          <p className="uppercase font-semibold text-sidebar-text">card details</p>
+          <div className="flex text-graytext">
+            <div className="mt-[5px] mr-1">
+              <Lock />
+            </div>
+            <p className="capitalize">secure server</p>
+          </div>
         </article>
-        <article className="flex items-center">
+        <article className="flex justify-between">
           <Input cardNumInput={true} />
-          <span className="self-center mt-6">
+          <span className="self-center mt-6 mr-20">
             <MasterCard />
           </span>
         </article>
@@ -20,8 +27,8 @@ export default function CreditCard() {
         </article>
       </div>
       <div id="billing-info" className="mt-2 font-semibold text-sm">
-        <article>
-          <p className="uppercase">billing information</p>
+        <article className="border-b border-dashed pb-4 mt-7 mb-2 border-grayborder">
+          <p className="uppercase text-base  text-sidebar-text ">billing information</p>
         </article>
         <article>
           <Input cardHolderInput={true} />
@@ -48,7 +55,7 @@ export default function CreditCard() {
           </div>
           <div className="flex justify-between">
             <p>Baggage</p>
-            <p className="text-[#76bdbf] uppercase">Free</p>
+            <p className="text-[#76bdbf] font-semibold uppercase">Free</p>
           </div>
           <div className="flex justify-between">
             <p>Flight Insurance</p>
@@ -61,8 +68,11 @@ export default function CreditCard() {
         </div>
         <div className="flex justify-between">
           <p>Total Price</p>
+
           <div className="flex justify-between">
-            <article>icons</article>
+            <div className="mr-[2px] mt-[3px]">
+              <Info />
+            </div>
             <p>IDR 2.238.000</p>
           </div>
         </div>
