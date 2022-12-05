@@ -3,8 +3,8 @@ import { ReactComponent as MasterCard } from "../assets/Group -25.svg";
 
 export default function CreditCard() {
   return (
-    <section className="px-10">
-      <div id="card-details">
+    <section className="px-10 ">
+      <div id="card-details font-semibold text-sm">
         <article className="flex justify-between">
           <p className="uppercase">card details</p>
           <p className="uppercase">secure</p>
@@ -19,7 +19,7 @@ export default function CreditCard() {
           <Input expDateInput={true} />
         </article>
       </div>
-      <div id="billing-info" className="mt-2">
+      <div id="billing-info" className="mt-2 font-semibold text-sm">
         <article>
           <p className="uppercase">billing information</p>
         </article>

@@ -4,8 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        ['sidebar-text']: "#14538a",
-        footer: '#105088'
+        ["sidebar-text"]: "#14538a",
+        footer: "#105088",
+        grayborder: "#767676",
+        graytext: "#9b9696",
       },
     },
   },
