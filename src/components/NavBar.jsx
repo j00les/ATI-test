@@ -5,7 +5,7 @@ import { ReactComponent as Steps } from "../assets/Group 27.svg";
 
 export default function NavBar() {
   return (
-    <section className="navbar bg-base-100 px-12 py-5">
+    <section className="navbar px-12 py-5 h-fit bg-red-400">
       <div className="navbar-start">
         <Ranto />
       </div>
