@@ -2,7 +2,7 @@ export default function BRI() {
   return (
     <div>
       <article className="flex justify-between border-b border-dashed border-grayborder mb-4 pb-4">
-        <p className="uppercase font-semibold text-sidebar-text">Bank BCA</p>
+        <p className="uppercase font-semibold text-sidebar-text">Bank BRI</p>
       </article>
 
       <div className="flex flex-col gap-2 mb-5 mt-2">
