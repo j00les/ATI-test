@@ -5,7 +5,7 @@ import { ReactComponent as Info } from "../assets/error_outline-1.svg";
 
 export default function CreditCard() {
   return (
-    <section className="px-10 py-7">
+    <section>
       <div id="card-details font-semibold text-sm">
         <article className="flex justify-between border-b border-dashed border-grayborder mb-4 pb-4">
           <p className="uppercase font-semibold text-sidebar-text">card details</p>
@@ -16,9 +16,11 @@ export default function CreditCard() {
             <p className="capitalize">secure server</p>
           </div>
         </article>
-        <article className="flex justify-between">
+
+        <article className="flex">
           <Input cardNumInput={true} />
-          <span className="self-center mt-6 mr-20">
+
+          <span className="self-center mt-6 ml-[5rem]">
             <MasterCard />
           </span>
         </article>
